@@ -1,10 +1,8 @@
 # Foreman — Team Task Manager
 
-A full-stack web app for teams to run projects, assign tasks, and track progress with role-based access. Built as a coding assignment.
+A full-stack web app for teams to run projects, assign tasks, and track progress with role-based access.
 
-**Live URL:** _paste your Railway URL here_
-
-**Demo video:** _paste your Loom or YouTube link here_
+**Live URL:** 
 
 ---
 
